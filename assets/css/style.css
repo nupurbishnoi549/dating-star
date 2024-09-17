@@ -172,11 +172,11 @@
     margin-top: -3px;
 }
 
-/* .slick-slide {
+.slick-slide {
     margin-left: 14px;
-} */
+}
 
-/* .slider_button {
+.slider_button {
     padding: 12px 24px;
     border-radius: 12px;
     background: var(--yellow);
@@ -198,7 +198,7 @@
 
 .slick-prev {
     left: -40px !important;
-} */
+}
 
 /* --------------form----------- */
 .gmail {
@@ -314,7 +314,7 @@
     right: 0;
     left: 0;
 }
-.z_index_5{
+.z_idex-5{
     z-index: 5;
 }
 @media (max-width:375px) {
@@ -341,7 +341,7 @@
         margin-left: 29px;
     } */
 
-    /* .slick-list.dragging {
+    .slick-list.dragging {
         margin-left: -10px !important;
     }
 
@@ -350,7 +350,7 @@
         margin-left: -10px !important;
         margin-right: 13px;
         border-radius: 20px;
-    } */
+    }
 
     .form_text {
         margin: auto;
