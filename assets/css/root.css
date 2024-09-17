@@ -1,0 +1,43 @@
+:root {
+    --fs-base: 12px;
+    --fs-md: 16px;
+    --fs-lg: 24px;
+    --fs-xl: 40px;
+    --yellow: #F7B103;
+    --white: #FFFFFF;
+    --black: #000000;
+    --gradient:linear-gradient(180deg, #F7B103 0%, rgba(247, 177, 3, 0) 100%);
+}
+
+.fs_base {
+    font-size: var(--fs-base);
+}
+
+.fs_md {
+    font-size: var(--fs-md);
+}
+
+.fs_lg {
+    font-size: var(--fs-lg);
+}
+
+.fs_xl {
+    font-size: var(--fs-xl);
+}
+
+.bg_black {
+    background: var(--black);
+}
+
+.text_white {
+    color: var(--white);
+}
+.text_yellow {
+    color: var(--yellow);
+}
+.bg_yellow {
+    background: var(--yellow);
+}
+.gradient_border{
+    border: 1px solid var(--gradient);
+}
